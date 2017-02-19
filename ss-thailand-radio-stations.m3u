@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:-1,COOLcelsius 91-5
+http://111.223.51.7:8005
+#EXTINF:-1,COOLfahrenheit 93
+http://111.223.51.7:8000
+#EXTINF:-1,Mun FM 93
+http://103.246.18.3:4018/stream/1/
+#EXTINF:-1,FM99
+http://rstream.mcot.net:8000/fm99
+#EXTINF:-1,Sport Radio 96
+http://110.164.48.215:8000/smmradio
+#EXTINF:-1,The Shock Radio
+http://radiom.spicymkt.com:1870/stream/1/
+#EXTINF:-1,Seed FM 97-5
+http://rstream.mcot.net:8000/fm975
+#EXTINF:-1,City Radio Pattaya 90-25
+http://onair.passionfm.asia:8006/live2
+#EXTINF:-1,FMOne 103-5
+http://radio12.plathong.net:7010/stream/1/
+#EXTINF:-1,Phuket Island Radio 91-5
+http://stream.phuketfmradio.com/pfmMP3
+#EXTINF:-1,Sunshine FM Pattaya 107-75
+http://icecast.piesoft.net:8000/pat128
+#EXTINF:-1,Radio Thailand FM 105
+http://prdonline.prd.go.th:8210/
+#EXTINF:-1,Radio Thailand Chiangmai
+http://prdonline.prd.go.th:8120
+#EXTINF:-1,FM 91 Trafficpro Bangkok
+http://122.155.16.48:8955/
+#EXTINF:-1,Looktung Mahanakhon 95
+http://rstream.mcot.net:8000/fm95
+
